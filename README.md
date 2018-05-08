@@ -1,6 +1,6 @@
 # OOLanguageComparison
 Object Oriented Design Final Project
-## [C#](c#.md) vs [Java](java.md)
+## [C#](C#.md) vs [Java](java.md)
 ### Aidan Verhulst
 
 ## Comparison Criteria
