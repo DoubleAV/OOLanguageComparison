@@ -1,6 +1,6 @@
 # OOLanguageComparison
 Object Oriented Design Final Project
-## [C#](C#.md) vs [Java](java.md)
+## [C#](https://github.com/DoubleAV/OOLanguageComparison/blob/master/c%23.md) vs [Java](java.md)
 ### Aidan Verhulst
 
 ## Comparison Criteria
