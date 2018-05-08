@@ -1,6 +1,6 @@
 # OOLanguageComparison
 Object Oriented Design Final Project
-## C# vs Java Aidan Verhulst
+## C# vs Java
 ### Aidan Verhulst
 
 
