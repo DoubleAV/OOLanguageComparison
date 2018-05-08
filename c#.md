@@ -1,4 +1,4 @@
-C# critera
+C# criteria
 1) Language purpose/genisis
   * C# was created in 2000 by Anders Hejsberg at Microsoft. There was much rivarly rooted in it's development. Sun (Oracle) who created Java, didn't want Microsoft changing Java. C# was created to enable developers to build applications on the .NET framework and the syntax as well as functionality is very similar to java. This language was developed to make it easier to build apps on the .NET framework. By building these applcations on the .NET framework developers can call the code (in the framework) without writing it, and thus reducing the time it takes to build one of these apps.
 2) Unique features of the language
